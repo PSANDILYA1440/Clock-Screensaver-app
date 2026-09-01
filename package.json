@@ -1,0 +1,18 @@
+{
+  "name": "clock-screensaver-app",
+  "version": "1.0.0",
+  "description": "A lightweight macOS clock screensaver.",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "dev": "tsc && concurrently \"vite\" \"wait-on http://localhost:5173 && electron .\"",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "concurrently": "^9.0.0",
+    "electron": "^37.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^7.0.0",
+    "wait-on": "^8.0.0"
+  }
+}

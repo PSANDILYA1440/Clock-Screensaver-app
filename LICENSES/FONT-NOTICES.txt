@@ -1,0 +1,28 @@
+FONT NOTICES
+============
+
+Adwaita Sans
+------------
+
+Clock-Screensaver-app includes Adwaita Sans Regular.
+
+Adwaita Sans is distributed under the SIL Open Font License,
+Version 1.1 (OFL-1.1).
+
+Copyright notices:
+
+Copyright (c) 2016, The Inter Project Authors
+Copyright (c) 2015-2025, Renzhi Li
+Copyright (c) 2025, Jamie Gravendeel
+Copyright (c) 2025, Florian Müllner
+
+The complete license is provided in:
+
+LICENSES/Adwaita Sans LICENSE.txt
+
+The SIL Open Font License permits the font to be bundled,
+embedded, modified, and redistributed with software, subject
+to the terms of the license.
+
+License information:
+https://openfontlicense.org
